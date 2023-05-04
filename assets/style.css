@@ -24,6 +24,7 @@ h1{
 }
 header{
     padding: 10px;
+    display:flex;
 }
 header nav{
     padding-top: 20px;
