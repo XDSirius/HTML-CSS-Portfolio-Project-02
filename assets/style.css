@@ -10,7 +10,7 @@
 body{
     border: 20px solid  #D2DAFF ;
     background-color: #B1B2FF;
-
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 h1{
@@ -19,7 +19,7 @@ h1{
     
 }
 header{
-       
+    padding: 10px;
 }
 header nav{
     padding-top: 20px;
