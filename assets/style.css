@@ -25,13 +25,15 @@ h1{
 header{
     padding: 10px;
     display:flex;
+    justify-content: space-between;
 }
 header nav{
     padding-top: 20px;
     margin-left: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
-    
+    display: flex;
+    align-content: flex-end;    
 }
 
 header nav ul{
