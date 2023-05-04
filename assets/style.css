@@ -66,6 +66,10 @@ p{
     line-height: 1.5;
 }
 
+.work-images {
+    height: 200px;
+}
+
 .contact-me ul{
     list-style-type: none;
     display: flex;
