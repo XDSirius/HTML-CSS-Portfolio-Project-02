@@ -3,14 +3,65 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+
+
 }
 
 body{
+    border: 20px solid  #D2DAFF ;
     background-color: #B1B2FF;
+
+
+}
+h1{
+    font-size: 400%;
+    
+}
+header{
+       
+}
+header nav{
+    padding-top: 20px;
+    margin-left: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    
+}
+
+header nav ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+
+header nav ul li {
+    display: inline-block;
+    
 
 }
 
-header{
+#avatar{
 
+    border-radius: 50%;
+    height: 200px;
+   
+    float: top;
+}
+
+h2{
+    padding:10px;
+    font-size: 275%;
+}
+
+p{
+    font-size: 125%;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+footer{
+    padding: 30px;
+    clear:both ;
+    text-align: center;
 }
 
