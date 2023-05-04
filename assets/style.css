@@ -32,11 +32,15 @@ header nav{
 header nav ul{
     list-style-type: none;
     display: flex;
+    justify-content: flex-end;
+    
     
 }
 
 header nav ul li {
     display: inline-block;
+    font-size: 120%;
+    padding: 10px;
     
 
 }
