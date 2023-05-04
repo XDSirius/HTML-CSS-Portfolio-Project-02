@@ -6,7 +6,10 @@
 
 
 }
+a{
+  text-decoration:underline overline; 
 
+}
 body{
     border: 20px solid  #D2DAFF ;
     background-color: #B1B2FF;
@@ -87,5 +90,8 @@ footer{
     padding: 30px;
     clear:both ;
     text-align: center;
+    text-decoration: none;
 }
+
+
 
