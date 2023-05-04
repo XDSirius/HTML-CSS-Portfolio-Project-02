@@ -63,7 +63,21 @@ p{
     font-size: 125%;
     padding: 10px;
     margin-left: 20px;
-    line-height: 1.5;}
+    line-height: 1.5;
+}
+
+.contact-me ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.contact-me ul li{
+    display: inline-block;
+    font-size: 125% ;
+    padding:10px;
+    margin-left: 30px;
+}
 
 footer{
     padding: 30px;
