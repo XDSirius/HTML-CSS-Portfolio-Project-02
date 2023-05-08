@@ -82,6 +82,12 @@ p{
     width: 300px;
 }
 
+#grid{
+    display:grid;
+    width:100%;
+    grid-template-columns: repeat();
+}
+
 .contact-me ul{
     list-style-type: none;
     display: flex;
