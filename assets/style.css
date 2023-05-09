@@ -145,13 +145,17 @@ footer{
     text-decoration: none;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (min-width: 768px){
     header {
             flex-direction: column;
             width: 100%;
     }
     header h1 {
         text-align: center;
+    }
+
+    header nav ul{
+        flex-direction: row;
     }
     #avatar{
         width: 40%;
@@ -168,13 +172,14 @@ footer{
         display: flex;
 
         justify-content: space-around;
+        flex-direction: row;
     }
 
    
 }
 
 
-@media screen and (max-width: 1068px){
+@media screen and (min-width: 1024px){
     header {
             flex-direction: row;
             width: 100%;
@@ -193,10 +198,50 @@ footer{
 
     }
     #avatar{
-        width: 30%;
+        width: 20%;
     }
 
     .contact-me ul {
         flex-direction: row;
+        display: flex;
+
+        justify-content: space-around;
+        
+    }
+}
+
+
+@media screen and (min-width: 1440px){
+    header {
+            flex-direction: row;
+            width: 100%;
+    }
+    header h1 {
+        text-align: center;
+    
+    }
+
+    header nav{
+        display:flex;
+        
+
+    }
+    header nav ul{
+        flex-direction: row;
+        font-size: 160%;
+
+    }
+    #avatar{
+        width: 20%;
+        position: relative;
+        left: -550px
+    }
+
+    .contact-me ul {
+        flex-direction: row;
+        display: flex;
+
+        justify-content: space-around;
+        
     }
 }
