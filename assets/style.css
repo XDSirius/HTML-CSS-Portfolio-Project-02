@@ -62,7 +62,7 @@ header nav ul li {
 }
 div {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
 }
 
@@ -108,15 +108,11 @@ img{
     margin-right: 140px;
 
 }
-#grid{
-    
-    display:grid;
-    width:100%;
-    grid-template-columns: repeat(2,0,80px);
+
     
     
 
-}
+
 
 
 .contact-me ul{
@@ -149,6 +145,7 @@ footer{
     header {
             flex-direction: column;
             width: 100%;
+            background-color: yellow;
     }
     header h1 {
         text-align: center;
@@ -175,7 +172,24 @@ footer{
         flex-direction: row;
     }
 
-   
+    .row {
+        display:flex;
+        flex-direction: row;
+        margin: 0;
+        
+
+
+
+
+    }
+    .column{
+        display:flex;
+        flex-direction: row;
+        width: 50%;
+        margin: 0;
+        padding: 0;
+    }
+    
 }
 
 
@@ -208,6 +222,10 @@ footer{
         justify-content: space-around;
         
     }
+
+
+
+
 }
 
 
