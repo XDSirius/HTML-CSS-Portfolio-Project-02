@@ -1,5 +1,5 @@
 # HTML-CSS-Portfolio-Project-02
-##This week's challenge was to create a HTML and CSS webpage from scratch to showcase our work by including pictures with links and making our webpage responsive.
+This week's challenge was to create a HTML and CSS webpage from scratch to showcase our work by including pictures with links and making our webpage responsive.
 
 ## Installation
 
