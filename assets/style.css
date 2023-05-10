@@ -273,6 +273,7 @@ footer{
     
     }
 
+
     header nav{
         display:flex;
         
@@ -284,9 +285,8 @@ footer{
 
     }
     #avatar{
-        width: 20%;
-        position: relative;
-        left: -550px
+        display: flex;
+
     }
 
     .contact-me ul {
