@@ -145,7 +145,7 @@ footer{
     header {
             flex-direction: column;
             width: 100%;
-            background-color: yellow;
+            
     }
     header h1 {
         text-align: center;
