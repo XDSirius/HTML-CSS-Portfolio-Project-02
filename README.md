@@ -13,6 +13,8 @@ To use this website , you may click on the navigation bar to go to the desired s
 
 ![Header](https://github.com/XDSirius/HTML-CSS-Portfolio-Project-02/blob/main/assets/readme-images/header_screenshot.jfif "Header Image")
 
+![Footer](https://github.com/XDSirius/HTML-CSS-Portfolio-Project-02/blob/main/assets/readme-images/footer_screenshot.jfif "Footer Image")
+
 ## Credits
 
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
