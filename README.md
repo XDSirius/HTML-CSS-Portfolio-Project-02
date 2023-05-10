@@ -20,6 +20,7 @@ To use this website , you may click on the navigation bar to go to the desired s
 UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG
 CSS Snippet Cheatsheet
 https://colorhunt.co/palette/b1b2ffaac4ffd2daffeef1ff
+Big Thanks to https://unsplash.com/ for the free images
 
 ## License
 Please refer to the LICENSE in the repo.
