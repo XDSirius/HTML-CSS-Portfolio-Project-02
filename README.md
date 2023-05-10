@@ -11,6 +11,7 @@ https://xdsirius.github.io/HTML-CSS-Portfolio-Project-02/
 ## Usage
 To use this website , you may click on the navigation bar to go to the desired section of the webpage. Click on the images and it will take you to a new page showing my work.
 
+![Header](https://github.com/XDSirius/HTML-CSS-Portfolio-Project-02/blob/assets/readme-images/header_screenshot.jfif "Header Image")
 
 ## Credits
 
